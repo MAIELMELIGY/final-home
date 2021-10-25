@@ -1,0 +1,20 @@
+#aboutNumber{
+   
+    box-sizing: content-box;
+    width: 100%;
+    border: solid #e6e7e9 1px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+#aboutNumber h1{
+    text-align:center;
+    padding-bottom: 30px;
+}
+.number .row .col{
+    border: solid #e6e7e9 5px;
+    padding: 20px;
+    text-align: center;
+
+}

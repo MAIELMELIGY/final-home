@@ -1,0 +1,48 @@
+.details_hdl {
+  margin-top: 65px;
+  height: 600px;
+  justify-content: center;
+  align-items: center;
+}
+.content .row h3 {
+  color: #fff;
+  text-align: center;
+  top: 100px;
+}
+.content p {
+  color: #fff;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.content {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  height: 600px;
+  top: 120px;
+}
+.video_file {
+  padding: 20px;
+}
+.vid {
+  width: 40%;
+  float: left;
+  padding: 20px;
+  display:inline;
+}
+.vid-content {
+ height: 400px;
+ padding: 20px;
+ text-align: center;
+
+
+}
+
+.slider img {
+  width: 60%;
+  padding: 20px 0 20px 20px;
+}
+.slider {
+  width: 100%;
+}

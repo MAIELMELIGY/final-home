@@ -1,0 +1,80 @@
+.main {
+  width: 100%;
+  height: auto;
+  margin: auto;
+  background-color: white;
+  position: relative;
+  top: 10vh;
+  padding: 1vw;
+  border-radius: 1vw;
+}
+.row {
+  top: 500px;
+}
+.card-title{
+  margin:10px;
+  padding:10px;
+  color:#37276e;
+}
+img{
+  transition: all 0.4s ease-in-out;
+  display: inline-block;
+}
+.card-sub{
+  box-shadow: 5px 10px 30px rgba(0, 0, 0, 0.336);
+  background-color: #fff;
+  box-sizing: border-box;
+  margin: 5px;
+
+}
+.circle {
+  width: 20vw;
+  height: 20vw;
+}
+
+.head {
+  font-size: 2vw;
+  font-family: "Saira Semi Condensed", sans-serif;
+}
+
+.name {
+  font-size: 1.3vw;
+}
+
+.post {
+  font-size: 1.5vw;
+}
+
+.fa {
+  color: #039be5;
+}
+
+.row {
+  padding-top: 1vw;
+}
+
+@media only screen and (max-width: 425px) {
+  .main {
+    width: 90vw;
+    height: 300vw;
+  }
+
+  .circle {
+    width: 30vw;
+    height: 30vw;
+  }
+
+  .name {
+    position: relative;
+    top: 2vw;
+    font-size: 5vw;
+  }
+
+  .post {
+    font-size: 6vw;
+  }
+
+  .head {
+    font-size: 8vw;
+  }
+}
