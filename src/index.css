@@ -1,4 +1,6 @@
-
+body{
+  background-color: #fff;
+}
 html :lang(ar) * {
   text-align: right;
   direction: rtl;
