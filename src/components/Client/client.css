@@ -3,6 +3,7 @@
     padding: 50px 30px;
     box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
     transition: all ease-in-out 0.3s;
+    background-color: #fff;
   }
   .client p{
       color:#f2f2f2;
